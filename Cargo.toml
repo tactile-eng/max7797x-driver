@@ -1,10 +1,10 @@
 [package]
 name = "max7797x-driver"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Alex Moon"]
 edition = "2021"
 description = "An embedded async driver for the MAX77975/MAX77976 battery charger"
-documentation = "https://docs.rs/max7797x0driver"
+documentation = "https://docs.rs/max7797x-driver"
 repository = "https://github.com/tactile-eng/max7797x-driver"
 license = "Apache-2.0"
 keywords = ["embedded-hal-driver", "max77975", "charger"]
